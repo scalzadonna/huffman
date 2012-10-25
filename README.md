@@ -2,4 +2,4 @@
 
 ##Algoritmos y estructuras de datos II
 
-###Trabajo pr√°ctico
+###Trabajo pr·ctico
